@@ -1,3 +1,5 @@
+
+
 type Props = {}
 
 const NotFound = ({}: Props) => {
